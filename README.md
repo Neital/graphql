@@ -6,4 +6,4 @@ By utilizing the GraphQL endpoint provided by the platform (https://01.kood.tech
 [Natalja Frantikova](https://01.kood.tech/git/cookiedream)
 
 ## Link
-https://marshmelove.github.io/graphql/
+https://neital.github.io/graphql/
